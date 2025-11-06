@@ -75,13 +75,4 @@ Recipe-Gallery-App/
 
 ---
 
-## 👩‍💻 Developer Info
-
-**Developed by:** Vaishali Vala
-📧 Email: *[Add your email]*
-🗕️ Year: 2025
-🌐 Course: Full Stack Development @ Red & White Institute
-
----
-
 > *“Good food is all the sweeter when shared with good design.”* 🍰
